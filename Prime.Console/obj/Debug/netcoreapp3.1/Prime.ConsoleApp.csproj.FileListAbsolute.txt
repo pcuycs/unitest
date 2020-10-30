@@ -1,0 +1,16 @@
+E:\TrungThanh\UnitTest\Prime.Console\bin\Debug\netcoreapp3.1\Prime.ConsoleApp.exe
+E:\TrungThanh\UnitTest\Prime.Console\bin\Debug\netcoreapp3.1\Prime.ConsoleApp.deps.json
+E:\TrungThanh\UnitTest\Prime.Console\bin\Debug\netcoreapp3.1\Prime.ConsoleApp.runtimeconfig.json
+E:\TrungThanh\UnitTest\Prime.Console\bin\Debug\netcoreapp3.1\Prime.ConsoleApp.runtimeconfig.dev.json
+E:\TrungThanh\UnitTest\Prime.Console\bin\Debug\netcoreapp3.1\Prime.ConsoleApp.dll
+E:\TrungThanh\UnitTest\Prime.Console\bin\Debug\netcoreapp3.1\Prime.ConsoleApp.pdb
+E:\TrungThanh\UnitTest\Prime.Console\bin\Debug\netcoreapp3.1\Prime.dll
+E:\TrungThanh\UnitTest\Prime.Console\bin\Debug\netcoreapp3.1\Prime.pdb
+E:\TrungThanh\UnitTest\Prime.Console\obj\Debug\netcoreapp3.1\Prime.ConsoleApp.csprojAssemblyReference.cache
+E:\TrungThanh\UnitTest\Prime.Console\obj\Debug\netcoreapp3.1\Prime.ConsoleApp.AssemblyInfoInputs.cache
+E:\TrungThanh\UnitTest\Prime.Console\obj\Debug\netcoreapp3.1\Prime.ConsoleApp.AssemblyInfo.cs
+E:\TrungThanh\UnitTest\Prime.Console\obj\Debug\netcoreapp3.1\Prime.ConsoleApp.csproj.CoreCompileInputs.cache
+E:\TrungThanh\UnitTest\Prime.Console\obj\Debug\netcoreapp3.1\Prime.ConsoleApp.csproj.CopyComplete
+E:\TrungThanh\UnitTest\Prime.Console\obj\Debug\netcoreapp3.1\Prime.ConsoleApp.dll
+E:\TrungThanh\UnitTest\Prime.Console\obj\Debug\netcoreapp3.1\Prime.ConsoleApp.pdb
+E:\TrungThanh\UnitTest\Prime.Console\obj\Debug\netcoreapp3.1\Prime.ConsoleApp.genruntimeconfig.cache

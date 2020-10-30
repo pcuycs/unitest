@@ -1,0 +1,16 @@
+E:\TrungThanh\UnitTest\Order.BusinessLogic\bin\Debug\netcoreapp3.1\Order.BusinessLogic.deps.json
+E:\TrungThanh\UnitTest\Order.BusinessLogic\bin\Debug\netcoreapp3.1\Order.BusinessLogic.dll
+E:\TrungThanh\UnitTest\Order.BusinessLogic\bin\Debug\netcoreapp3.1\Order.BusinessLogic.pdb
+E:\TrungThanh\UnitTest\Order.BusinessLogic\bin\Debug\netcoreapp3.1\Order.Data.dll
+E:\TrungThanh\UnitTest\Order.BusinessLogic\bin\Debug\netcoreapp3.1\Order.Entity.dll
+E:\TrungThanh\UnitTest\Order.BusinessLogic\bin\Debug\netcoreapp3.1\Order.Repository.dll
+E:\TrungThanh\UnitTest\Order.BusinessLogic\bin\Debug\netcoreapp3.1\Order.Repository.pdb
+E:\TrungThanh\UnitTest\Order.BusinessLogic\bin\Debug\netcoreapp3.1\Order.Data.pdb
+E:\TrungThanh\UnitTest\Order.BusinessLogic\bin\Debug\netcoreapp3.1\Order.Entity.pdb
+E:\TrungThanh\UnitTest\Order.BusinessLogic\obj\Debug\netcoreapp3.1\Order.BusinessLogic.csprojAssemblyReference.cache
+E:\TrungThanh\UnitTest\Order.BusinessLogic\obj\Debug\netcoreapp3.1\Order.BusinessLogic.AssemblyInfoInputs.cache
+E:\TrungThanh\UnitTest\Order.BusinessLogic\obj\Debug\netcoreapp3.1\Order.BusinessLogic.AssemblyInfo.cs
+E:\TrungThanh\UnitTest\Order.BusinessLogic\obj\Debug\netcoreapp3.1\Order.BusinessLogic.csproj.CoreCompileInputs.cache
+E:\TrungThanh\UnitTest\Order.BusinessLogic\obj\Debug\netcoreapp3.1\Order.BusinessLogic.csproj.CopyComplete
+E:\TrungThanh\UnitTest\Order.BusinessLogic\obj\Debug\netcoreapp3.1\Order.BusinessLogic.dll
+E:\TrungThanh\UnitTest\Order.BusinessLogic\obj\Debug\netcoreapp3.1\Order.BusinessLogic.pdb

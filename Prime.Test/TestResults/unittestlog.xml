@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="81e618d4-7cd0-4c06-9beb-9672a33d77b5" name="trungthanh@ASFE 2020-10-08 08:50:25" runUser="ASFE\trungthanh" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2020-10-08T08:50:25.9202873+07:00" queuing="2020-10-08T08:50:25.9202891+07:00" start="2020-10-08T08:50:23.3917459+07:00" finish="2020-10-08T08:50:25.9793745+07:00" />
+  <TestSettings name="default" id="eb1889a0-13c9-4f22-859d-ebf3c3876a85">
+    <Deployment runDeploymentRoot="trungthanh_ASFE_2020-10-08_08_50_25" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="1daf9ffa-ad00-4a6d-8c00-184af96b5f88" testId="d6178422-e0da-c1cc-685d-fa29a2265942" testName="Prime.Test.PrimeDetectorTest.IsPrime_ArePrimeNumber(number: 2)" computerName="ASFE" duration="00:00:00.0000041" startTime="2020-10-08T08:50:25.8151622+07:00" endTime="2020-10-08T08:50:25.8151626+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1daf9ffa-ad00-4a6d-8c00-184af96b5f88" />
+    <UnitTestResult executionId="cb6f55f6-df4c-4853-bfe7-74bb6930c581" testId="28f063c1-c1fa-88f9-486c-a800c599a189" testName="Prime.Test.PrimeDetectorTest.IsPrime_AreNotPrimeNumber(number: 0)" computerName="ASFE" duration="00:00:00.0000041" startTime="2020-10-08T08:50:25.7553801+07:00" endTime="2020-10-08T08:50:25.7553803+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cb6f55f6-df4c-4853-bfe7-74bb6930c581" />
+    <UnitTestResult executionId="ddc7635c-1878-477b-b63b-ac9b7e36984b" testId="bdaf1150-dee8-df4c-f55c-6884d7236db1" testName="Prime.Test.PrimeDetectorTest.IsPrime_ArePrimeNumber(number: 5)" computerName="ASFE" duration="00:00:00.0000082" startTime="2020-10-08T08:50:25.8149946+07:00" endTime="2020-10-08T08:50:25.8149953+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ddc7635c-1878-477b-b63b-ac9b7e36984b" />
+    <UnitTestResult executionId="97384e64-dffb-46f8-baa2-12a0b1b6d1bc" testId="ebae6b0c-84d1-3076-fdee-d3b1bd62be9d" testName="Prime.Test.PrimeDetectorTest.IsPrime_AreNotPrimeNumber(number: 10)" computerName="ASFE" duration="00:00:00.0000041" startTime="2020-10-08T08:50:25.7554944+07:00" endTime="2020-10-08T08:50:25.7554947+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="97384e64-dffb-46f8-baa2-12a0b1b6d1bc" />
+    <UnitTestResult executionId="b0635b6a-5669-45c7-ab13-4d47c3c01cec" testId="f6026da0-6582-bccc-c32e-a5ff4aadf54d" testName="Prime.Test.PrimeDetectorTest.IsPrime_AreNotPrimeNumber(number: 6)" computerName="ASFE" duration="00:00:00.0000293" startTime="2020-10-08T08:50:25.7551563+07:00" endTime="2020-10-08T08:50:25.7551575+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b0635b6a-5669-45c7-ab13-4d47c3c01cec" />
+    <UnitTestResult executionId="bf412c5b-eee4-40c6-a7c1-f26d7d81f577" testId="2944d0c1-7266-1560-63e0-dcf034de9763" testName="Prime.Test.PrimeDetectorTest.IsPrime_ArePrimeNumber(number: 19)" computerName="ASFE" duration="00:00:00.0000043" startTime="2020-10-08T08:50:25.8150538+07:00" endTime="2020-10-08T08:50:25.8150540+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bf412c5b-eee4-40c6-a7c1-f26d7d81f577" />
+    <UnitTestResult executionId="24ed98a4-aa0b-45aa-8eac-041730781bb3" testId="ffc093ab-ca2f-6be1-a8c5-eb3c5cd9661a" testName="Prime.Test.PrimeDetectorTest.IsPrime_ArePrimeNumber(number: 11)" computerName="ASFE" duration="00:00:00.0004017" startTime="2020-10-08T08:50:25.7556568+07:00" endTime="2020-10-08T08:50:25.7556571+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="24ed98a4-aa0b-45aa-8eac-041730781bb3" />
+    <UnitTestResult executionId="7fc29e2b-f062-4c88-a798-6b3c49364ddb" testId="9b7ea931-0432-7acf-0cce-807633ac7bbe" testName="Prime.Test.PrimeDetectorTest.IsPrime_AreNotPrimeNumber(number: 12)" computerName="ASFE" duration="00:00:00.0077095" startTime="2020-10-08T08:50:25.7477085+07:00" endTime="2020-10-08T08:50:25.7478506+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7fc29e2b-f062-4c88-a798-6b3c49364ddb" />
+    <UnitTestResult executionId="0efaed84-3382-47a4-aa6a-da7874c7d58c" testId="875dff15-0517-915e-4f87-de920c3f3d3a" testName="Prime.Test.PrimeDetectorTest.IsPrime_IsAPrimeNumber" computerName="ASFE" duration="00:00:00.0001636" startTime="2020-10-08T08:50:25.8153589+07:00" endTime="2020-10-08T08:50:25.8153591+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0efaed84-3382-47a4-aa6a-da7874c7d58c" />
+    <UnitTestResult executionId="736b95a8-9a9d-4f92-a097-14b8f21cda98" testId="153971d3-471a-ef38-cb22-e31e30186a94" testName="Prime.Test.PrimeDetectorTest.IsPrime_AreNotPrimeNumber(number: 1)" computerName="ASFE" duration="00:00:00.0000040" startTime="2020-10-08T08:50:25.7555748+07:00" endTime="2020-10-08T08:50:25.7555751+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="736b95a8-9a9d-4f92-a097-14b8f21cda98" />
+    <UnitTestResult executionId="5b0963a5-e607-49aa-8ffc-fb384a33f34f" testId="d82f1884-dc8f-96a6-9d86-44dd026041df" testName="Prime.Test.PrimeDetectorTest.IsPrime_IsNotAPrimeNumber" computerName="ASFE" duration="00:00:00.0001495" startTime="2020-10-08T08:50:25.8152908+07:00" endTime="2020-10-08T08:50:25.8152910+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5b0963a5-e607-49aa-8ffc-fb384a33f34f" />
+    <UnitTestResult executionId="abe50709-56de-4af6-8747-afd0bdc18be6" testId="99774733-b441-1589-6815-430454241a7e" testName="Prime.Test.PrimeDetectorTest.IsPrime_ArePrimeNumber(number: 23)" computerName="ASFE" duration="00:00:00.0000120" startTime="2020-10-08T08:50:25.8147982+07:00" endTime="2020-10-08T08:50:25.8147994+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="abe50709-56de-4af6-8747-afd0bdc18be6" />
+    <UnitTestResult executionId="a6783e52-31ce-4b83-b65c-69d010323eb0" testId="7c134f79-136f-6e2a-fa6c-05f2ccf37a13" testName="Prime.Test.PrimeDetectorTest.IsPrime_ArePrimeNumber(number: 3)" computerName="ASFE" duration="00:00:00.0000043" startTime="2020-10-08T08:50:25.8151076+07:00" endTime="2020-10-08T08:50:25.8151079+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a6783e52-31ce-4b83-b65c-69d010323eb0" />
+    <UnitTestResult executionId="ba8dcbc8-dd44-42f7-8bbd-dcc23756e92d" testId="8821d1e2-3020-6809-81ce-d2b2cacae355" testName="Prime.Test.PrimeDetectorTest.IsPrime_ArePrimeNumber(number: 7)" computerName="ASFE" duration="00:00:00.0000047" startTime="2020-10-08T08:50:25.8152292+07:00" endTime="2020-10-08T08:50:25.8152295+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ba8dcbc8-dd44-42f7-8bbd-dcc23756e92d" />
+    <UnitTestResult executionId="0055479c-39ad-4863-809b-92774fa6370b" testId="81f9a423-d25c-2b49-ab25-39b7608a0e6f" testName="Prime.Test.PrimeDetectorTest.IsPrime_AreNotPrimeNumber(number: 8)" computerName="ASFE" duration="00:00:00.0000047" startTime="2020-10-08T08:50:25.7554318+07:00" endTime="2020-10-08T08:50:25.7554321+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0055479c-39ad-4863-809b-92774fa6370b" />
+    <UnitTestResult executionId="5b5b6daa-bd32-4110-8c7e-16ec277d7d10" testId="3235dd6a-4c8f-238b-2efd-d8e8100ee772" testName="Prime.Test.PrimeDetectorTest.IsPrime_AreNotPrimeNumber(number: 9)" computerName="ASFE" duration="00:00:00.0000060" startTime="2020-10-08T08:50:25.7552658+07:00" endTime="2020-10-08T08:50:25.7552661+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5b5b6daa-bd32-4110-8c7e-16ec277d7d10" />
+    <UnitTestResult executionId="8cc3d9ca-81a8-4eed-8775-f5452adbc8a3" testId="694c14b0-028a-0d4f-51a4-c9f7c9b57c5e" testName="Prime.Test.PrimeDetectorTest.IsPrime_AreNotPrimeNumber(number: 4)" computerName="ASFE" duration="00:00:00.0000041" startTime="2020-10-08T08:50:25.7553286+07:00" endTime="2020-10-08T08:50:25.7553288+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8cc3d9ca-81a8-4eed-8775-f5452adbc8a3" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="Prime.Test.PrimeDetectorTest.IsPrime_ArePrimeNumber(number: 5)" storage="e:\trungthanh\unittest\prime.test\bin\debug\netcoreapp3.1\prime.test.dll" id="bdaf1150-dee8-df4c-f55c-6884d7236db1">
+      <Execution id="ddc7635c-1878-477b-b63b-ac9b7e36984b" />
+      <TestMethod codeBase="E:\TrungThanh\UnitTest\Prime.Test\bin\Debug\netcoreapp3.1\Prime.Test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Prime.Test.PrimeDetectorTest" name="IsPrime_ArePrimeNumber" />
+    </UnitTest>
+    <UnitTest name="Prime.Test.PrimeDetectorTest.IsPrime_ArePrimeNumber(number: 3)" storage="e:\trungthanh\unittest\prime.test\bin\debug\netcoreapp3.1\prime.test.dll" id="7c134f79-136f-6e2a-fa6c-05f2ccf37a13">
+      <Execution id="a6783e52-31ce-4b83-b65c-69d010323eb0" />
+      <TestMethod codeBase="E:\TrungThanh\UnitTest\Prime.Test\bin\Debug\netcoreapp3.1\Prime.Test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Prime.Test.PrimeDetectorTest" name="IsPrime_ArePrimeNumber" />
+    </UnitTest>
+    <UnitTest name="Prime.Test.PrimeDetectorTest.IsPrime_ArePrimeNumber(number: 23)" storage="e:\trungthanh\unittest\prime.test\bin\debug\netcoreapp3.1\prime.test.dll" id="99774733-b441-1589-6815-430454241a7e">
+      <Execution id="abe50709-56de-4af6-8747-afd0bdc18be6" />
+      <TestMethod codeBase="E:\TrungThanh\UnitTest\Prime.Test\bin\Debug\netcoreapp3.1\Prime.Test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Prime.Test.PrimeDetectorTest" name="IsPrime_ArePrimeNumber" />
+    </UnitTest>
+    <UnitTest name="Prime.Test.PrimeDetectorTest.IsPrime_AreNotPrimeNumber(number: 1)" storage="e:\trungthanh\unittest\prime.test\bin\debug\netcoreapp3.1\prime.test.dll" id="153971d3-471a-ef38-cb22-e31e30186a94">
+      <Execution id="736b95a8-9a9d-4f92-a097-14b8f21cda98" />
+      <TestMethod codeBase="E:\TrungThanh\UnitTest\Prime.Test\bin\Debug\netcoreapp3.1\Prime.Test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Prime.Test.PrimeDetectorTest" name="IsPrime_AreNotPrimeNumber" />
+    </UnitTest>
+    <UnitTest name="Prime.Test.PrimeDetectorTest.IsPrime_AreNotPrimeNumber(number: 12)" storage="e:\trungthanh\unittest\prime.test\bin\debug\netcoreapp3.1\prime.test.dll" id="9b7ea931-0432-7acf-0cce-807633ac7bbe">
+      <Execution id="7fc29e2b-f062-4c88-a798-6b3c49364ddb" />
+      <TestMethod codeBase="E:\TrungThanh\UnitTest\Prime.Test\bin\Debug\netcoreapp3.1\Prime.Test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Prime.Test.PrimeDetectorTest" name="IsPrime_AreNotPrimeNumber" />
+    </UnitTest>
+    <UnitTest name="Prime.Test.PrimeDetectorTest.IsPrime_ArePrimeNumber(number: 11)" storage="e:\trungthanh\unittest\prime.test\bin\debug\netcoreapp3.1\prime.test.dll" id="ffc093ab-ca2f-6be1-a8c5-eb3c5cd9661a">
+      <Execution id="24ed98a4-aa0b-45aa-8eac-041730781bb3" />
+      <TestMethod codeBase="E:\TrungThanh\UnitTest\Prime.Test\bin\Debug\netcoreapp3.1\Prime.Test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Prime.Test.PrimeDetectorTest" name="IsPrime_ArePrimeNumber" />
+    </UnitTest>
+    <UnitTest name="Prime.Test.PrimeDetectorTest.IsPrime_ArePrimeNumber(number: 2)" storage="e:\trungthanh\unittest\prime.test\bin\debug\netcoreapp3.1\prime.test.dll" id="d6178422-e0da-c1cc-685d-fa29a2265942">
+      <Execution id="1daf9ffa-ad00-4a6d-8c00-184af96b5f88" />
+      <TestMethod codeBase="E:\TrungThanh\UnitTest\Prime.Test\bin\Debug\netcoreapp3.1\Prime.Test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Prime.Test.PrimeDetectorTest" name="IsPrime_ArePrimeNumber" />
+    </UnitTest>
+    <UnitTest name="Prime.Test.PrimeDetectorTest.IsPrime_AreNotPrimeNumber(number: 8)" storage="e:\trungthanh\unittest\prime.test\bin\debug\netcoreapp3.1\prime.test.dll" id="81f9a423-d25c-2b49-ab25-39b7608a0e6f">
+      <Execution id="0055479c-39ad-4863-809b-92774fa6370b" />
+      <TestMethod codeBase="E:\TrungThanh\UnitTest\Prime.Test\bin\Debug\netcoreapp3.1\Prime.Test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Prime.Test.PrimeDetectorTest" name="IsPrime_AreNotPrimeNumber" />
+    </UnitTest>
+    <UnitTest name="Prime.Test.PrimeDetectorTest.IsPrime_AreNotPrimeNumber(number: 9)" storage="e:\trungthanh\unittest\prime.test\bin\debug\netcoreapp3.1\prime.test.dll" id="3235dd6a-4c8f-238b-2efd-d8e8100ee772">
+      <Execution id="5b5b6daa-bd32-4110-8c7e-16ec277d7d10" />
+      <TestMethod codeBase="E:\TrungThanh\UnitTest\Prime.Test\bin\Debug\netcoreapp3.1\Prime.Test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Prime.Test.PrimeDetectorTest" name="IsPrime_AreNotPrimeNumber" />
+    </UnitTest>
+    <UnitTest name="Prime.Test.PrimeDetectorTest.IsPrime_ArePrimeNumber(number: 19)" storage="e:\trungthanh\unittest\prime.test\bin\debug\netcoreapp3.1\prime.test.dll" id="2944d0c1-7266-1560-63e0-dcf034de9763">
+      <Execution id="bf412c5b-eee4-40c6-a7c1-f26d7d81f577" />
+      <TestMethod codeBase="E:\TrungThanh\UnitTest\Prime.Test\bin\Debug\netcoreapp3.1\Prime.Test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Prime.Test.PrimeDetectorTest" name="IsPrime_ArePrimeNumber" />
+    </UnitTest>
+    <UnitTest name="Prime.Test.PrimeDetectorTest.IsPrime_AreNotPrimeNumber(number: 0)" storage="e:\trungthanh\unittest\prime.test\bin\debug\netcoreapp3.1\prime.test.dll" id="28f063c1-c1fa-88f9-486c-a800c599a189">
+      <Execution id="cb6f55f6-df4c-4853-bfe7-74bb6930c581" />
+      <TestMethod codeBase="E:\TrungThanh\UnitTest\Prime.Test\bin\Debug\netcoreapp3.1\Prime.Test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Prime.Test.PrimeDetectorTest" name="IsPrime_AreNotPrimeNumber" />
+    </UnitTest>
+    <UnitTest name="Prime.Test.PrimeDetectorTest.IsPrime_AreNotPrimeNumber(number: 4)" storage="e:\trungthanh\unittest\prime.test\bin\debug\netcoreapp3.1\prime.test.dll" id="694c14b0-028a-0d4f-51a4-c9f7c9b57c5e">
+      <Execution id="8cc3d9ca-81a8-4eed-8775-f5452adbc8a3" />
+      <TestMethod codeBase="E:\TrungThanh\UnitTest\Prime.Test\bin\Debug\netcoreapp3.1\Prime.Test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Prime.Test.PrimeDetectorTest" name="IsPrime_AreNotPrimeNumber" />
+    </UnitTest>
+    <UnitTest name="Prime.Test.PrimeDetectorTest.IsPrime_AreNotPrimeNumber(number: 6)" storage="e:\trungthanh\unittest\prime.test\bin\debug\netcoreapp3.1\prime.test.dll" id="f6026da0-6582-bccc-c32e-a5ff4aadf54d">
+      <Execution id="b0635b6a-5669-45c7-ab13-4d47c3c01cec" />
+      <TestMethod codeBase="E:\TrungThanh\UnitTest\Prime.Test\bin\Debug\netcoreapp3.1\Prime.Test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Prime.Test.PrimeDetectorTest" name="IsPrime_AreNotPrimeNumber" />
+    </UnitTest>
+    <UnitTest name="Prime.Test.PrimeDetectorTest.IsPrime_IsAPrimeNumber" storage="e:\trungthanh\unittest\prime.test\bin\debug\netcoreapp3.1\prime.test.dll" id="875dff15-0517-915e-4f87-de920c3f3d3a">
+      <Execution id="0efaed84-3382-47a4-aa6a-da7874c7d58c" />
+      <TestMethod codeBase="E:\TrungThanh\UnitTest\Prime.Test\bin\Debug\netcoreapp3.1\Prime.Test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Prime.Test.PrimeDetectorTest" name="IsPrime_IsAPrimeNumber" />
+    </UnitTest>
+    <UnitTest name="Prime.Test.PrimeDetectorTest.IsPrime_AreNotPrimeNumber(number: 10)" storage="e:\trungthanh\unittest\prime.test\bin\debug\netcoreapp3.1\prime.test.dll" id="ebae6b0c-84d1-3076-fdee-d3b1bd62be9d">
+      <Execution id="97384e64-dffb-46f8-baa2-12a0b1b6d1bc" />
+      <TestMethod codeBase="E:\TrungThanh\UnitTest\Prime.Test\bin\Debug\netcoreapp3.1\Prime.Test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Prime.Test.PrimeDetectorTest" name="IsPrime_AreNotPrimeNumber" />
+    </UnitTest>
+    <UnitTest name="Prime.Test.PrimeDetectorTest.IsPrime_ArePrimeNumber(number: 7)" storage="e:\trungthanh\unittest\prime.test\bin\debug\netcoreapp3.1\prime.test.dll" id="8821d1e2-3020-6809-81ce-d2b2cacae355">
+      <Execution id="ba8dcbc8-dd44-42f7-8bbd-dcc23756e92d" />
+      <TestMethod codeBase="E:\TrungThanh\UnitTest\Prime.Test\bin\Debug\netcoreapp3.1\Prime.Test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Prime.Test.PrimeDetectorTest" name="IsPrime_ArePrimeNumber" />
+    </UnitTest>
+    <UnitTest name="Prime.Test.PrimeDetectorTest.IsPrime_IsNotAPrimeNumber" storage="e:\trungthanh\unittest\prime.test\bin\debug\netcoreapp3.1\prime.test.dll" id="d82f1884-dc8f-96a6-9d86-44dd026041df">
+      <Execution id="5b0963a5-e607-49aa-8ffc-fb384a33f34f" />
+      <TestMethod codeBase="E:\TrungThanh\UnitTest\Prime.Test\bin\Debug\netcoreapp3.1\Prime.Test.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Prime.Test.PrimeDetectorTest" name="IsPrime_IsNotAPrimeNumber" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="d6178422-e0da-c1cc-685d-fa29a2265942" executionId="1daf9ffa-ad00-4a6d-8c00-184af96b5f88" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="28f063c1-c1fa-88f9-486c-a800c599a189" executionId="cb6f55f6-df4c-4853-bfe7-74bb6930c581" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bdaf1150-dee8-df4c-f55c-6884d7236db1" executionId="ddc7635c-1878-477b-b63b-ac9b7e36984b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ebae6b0c-84d1-3076-fdee-d3b1bd62be9d" executionId="97384e64-dffb-46f8-baa2-12a0b1b6d1bc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f6026da0-6582-bccc-c32e-a5ff4aadf54d" executionId="b0635b6a-5669-45c7-ab13-4d47c3c01cec" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2944d0c1-7266-1560-63e0-dcf034de9763" executionId="bf412c5b-eee4-40c6-a7c1-f26d7d81f577" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ffc093ab-ca2f-6be1-a8c5-eb3c5cd9661a" executionId="24ed98a4-aa0b-45aa-8eac-041730781bb3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9b7ea931-0432-7acf-0cce-807633ac7bbe" executionId="7fc29e2b-f062-4c88-a798-6b3c49364ddb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="875dff15-0517-915e-4f87-de920c3f3d3a" executionId="0efaed84-3382-47a4-aa6a-da7874c7d58c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="153971d3-471a-ef38-cb22-e31e30186a94" executionId="736b95a8-9a9d-4f92-a097-14b8f21cda98" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d82f1884-dc8f-96a6-9d86-44dd026041df" executionId="5b0963a5-e607-49aa-8ffc-fb384a33f34f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="99774733-b441-1589-6815-430454241a7e" executionId="abe50709-56de-4af6-8747-afd0bdc18be6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7c134f79-136f-6e2a-fa6c-05f2ccf37a13" executionId="a6783e52-31ce-4b83-b65c-69d010323eb0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8821d1e2-3020-6809-81ce-d2b2cacae355" executionId="ba8dcbc8-dd44-42f7-8bbd-dcc23756e92d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="81f9a423-d25c-2b49-ab25-39b7608a0e6f" executionId="0055479c-39ad-4863-809b-92774fa6370b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3235dd6a-4c8f-238b-2efd-d8e8100ee772" executionId="5b5b6daa-bd32-4110-8c7e-16ec277d7d10" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="694c14b0-028a-0d4f-51a4-c9f7c9b57c5e" executionId="8cc3d9ca-81a8-4eed-8775-f5452adbc8a3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="17" executed="17" passed="17" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>[xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.4.0 (64-bit .NET Core 3.1.8)&#xD;
+[xUnit.net 00:00:00.66]   Discovering: Prime.Test&#xD;
+[xUnit.net 00:00:00.76]   Discovered:  Prime.Test&#xD;
+[xUnit.net 00:00:00.76]   Starting:    Prime.Test&#xD;
+[xUnit.net 00:00:01.00]   Finished:    Prime.Test&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>

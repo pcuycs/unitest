@@ -1,0 +1,14 @@
+E:\TrungThanh\UnitTest\Order.Repository\bin\Debug\netcoreapp3.1\Order.Repository.deps.json
+E:\TrungThanh\UnitTest\Order.Repository\bin\Debug\netcoreapp3.1\Order.Repository.dll
+E:\TrungThanh\UnitTest\Order.Repository\bin\Debug\netcoreapp3.1\Order.Repository.pdb
+E:\TrungThanh\UnitTest\Order.Repository\bin\Debug\netcoreapp3.1\Order.Data.dll
+E:\TrungThanh\UnitTest\Order.Repository\bin\Debug\netcoreapp3.1\Order.Entity.dll
+E:\TrungThanh\UnitTest\Order.Repository\bin\Debug\netcoreapp3.1\Order.Data.pdb
+E:\TrungThanh\UnitTest\Order.Repository\bin\Debug\netcoreapp3.1\Order.Entity.pdb
+E:\TrungThanh\UnitTest\Order.Repository\obj\Debug\netcoreapp3.1\Order.Repository.csprojAssemblyReference.cache
+E:\TrungThanh\UnitTest\Order.Repository\obj\Debug\netcoreapp3.1\Order.Repository.AssemblyInfoInputs.cache
+E:\TrungThanh\UnitTest\Order.Repository\obj\Debug\netcoreapp3.1\Order.Repository.AssemblyInfo.cs
+E:\TrungThanh\UnitTest\Order.Repository\obj\Debug\netcoreapp3.1\Order.Repository.csproj.CoreCompileInputs.cache
+E:\TrungThanh\UnitTest\Order.Repository\obj\Debug\netcoreapp3.1\Order.Repository.csproj.CopyComplete
+E:\TrungThanh\UnitTest\Order.Repository\obj\Debug\netcoreapp3.1\Order.Repository.dll
+E:\TrungThanh\UnitTest\Order.Repository\obj\Debug\netcoreapp3.1\Order.Repository.pdb
